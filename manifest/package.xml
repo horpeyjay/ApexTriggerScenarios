@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+	<types>
+		<members>*</members>
+		<name>CompactLayout</name>
+	</types>
+	<types>
+		<members>Account.Latest_Case_Number__c</members>
+		<name>CustomField</name>
+	</types>
+	<types>
+		<members>Position__c</members>
+		<name>CustomTab</name>
+	</types>
+	<types>
+		<members>Account_Record_Page</members>
+		<members>Contact_Record_Page</members>
+		<name>FlexiPage</name>
+	</types>
+	<types>
+		<members>*</members>
+		<name>Group</name>
+	</types>
+	<types>
+		<members>Opportunists</members>
+		<name>Role</name>
+	</types>
+	<version>62.0</version>
+</Package>
